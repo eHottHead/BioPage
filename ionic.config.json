@@ -1,0 +1,7 @@
+{
+  "name": "BioVanish",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
